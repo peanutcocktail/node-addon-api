@@ -1,4 +1,7 @@
 {
+  'variables': {
+    'openssl_fips': ""
+  },
   'targets': [
     {
       'target_name': 'node_addon_api',
